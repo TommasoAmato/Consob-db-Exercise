@@ -8,5 +8,5 @@ IF NOT EXISTS (
         FROM sys.databases
         WHERE name = N'TrySQLCMD'
 )
-CREATE DATABASE TrySQLCMD
+CREATE DATABASE Consob
 GO
