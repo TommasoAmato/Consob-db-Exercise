@@ -13,4 +13,7 @@
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment.InsertUsers.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="TryDbProjects_1.publish.xml.publish.xml" />
+  </ItemGroup>
 </Project>
